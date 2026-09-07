@@ -1,4 +1,4 @@
-# CC-Lab3
+# E-Cart: A Flask-Based E-Commerce Platform
 
 A simple e-commerce web application built with Flask, created as a Cloud Computing lab exercise. It covers user authentication, product browsing, a shopping cart, and checkout, with built-in performance monitoring and load-testing support.
 
